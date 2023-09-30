@@ -52,3 +52,31 @@ This means that the model can be used to predict the churn probability of new cu
 _**Conclusion**_
 
 By following the steps outlined above, Sprint can create a machine learning model that can be used to predict which customers are at risk of churning. This information can then be used to develop targeted marketing and retention strategies.
+
+
+Measuring the Success of Instagram TV (IGTV): A Data-Driven Analysis of User Engagement and Growth
+Measuring IGTV Success
+
+Wondering how to measure the success of IGTV, Instagram's long-form video feature? Well, it's a mix of quantitative and qualitative metrics.
+
+Quantitative metrics are numbers, like:
+
+Views: How many times have people watched your IGTV videos?
+Watch time: How long do people spend watching your IGTV videos on average?
+Likes, comments, and shares: How many people are interacting with your IGTV content?
+Uploads: How many videos are people uploading to IGTV?
+Monetization (if applicable): How much ad revenue or subscription revenue is IGTV generating?
+Qualitative metrics are more about what people are saying and feeling, like:
+
+User feedback: What do users like and dislike about IGTV? What features would they like to see?
+App store ratings and reviews: What are people saying about IGTV in the app store?
+Engagement funnel analysis: How many people are discovering IGTV videos, watching them, and interacting with them?
+Competitive analysis: How does IGTV compare to other long-form video platforms?
+Ultimately, the best way to measure the success of IGTV is to consider both quantitative and qualitative metrics. This will help you understand how IGTV is performing overall and identify areas for improvement.
+
+Here are some additional tips for measuring IGTV success in a casual way:
+
+Track how people are finding and watching your videos. This can help you optimize your content discovery features and recommendations.
+See what types of content, creators, and features people are engaging with the most. This can help you create more engaging and relevant IGTV experiences.
+Don't just focus on short-term metrics like daily or weekly views. Instead, track IGTV's performance over time to see how it's impacting user growth, engagement, and retention.
+By continuously measuring and analyzing IGTV performance, you can make informed decisions to improve the platform for both users and creators.
